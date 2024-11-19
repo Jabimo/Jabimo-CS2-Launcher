@@ -1,4 +1,4 @@
-# Jabimo-s-CS2-Launcher
+# Jabimo's CS2 Launcher
 <b>What is the purpose of this software?</b>
 <br>The purpose is to make it easier to play fullscreen-windowed with the desired aspect ratio (4:3, 16:9, 16:10) and resolution 
 <br>without having to change the resolution of your monitor manually everytime you open CS2.</br> I personally don't like fullscreen in CS2, because you can't tab on your second monitor without the game minimizing. 
